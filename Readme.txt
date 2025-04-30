@@ -2,7 +2,7 @@ Step 1: Open the Postgres SQL CLI, if it is not already open.
 
 Step 2: At the postgres=# prompt, run the following command to connect to the database ‘template1’
 
-``` 
+```sql
 > \c template1; 
 ```
 
